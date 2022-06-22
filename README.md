@@ -1,6 +1,6 @@
 # Ignacio Sanchez Martinez
 
-Hola! Soy Ignacio y vivo en CABA, Argentina. Desde que tengo memoria, me relaciono diariamente con la tecnología. A los 5 años ya me encontraba aprendiendo como manejar una computadora para jugar videojuegos. Con el tiempo, fui utilizando los conocimientos que adquirí para otros motivos, por ejemplo, aprendí edición básica de video con 9 años y a usar photoshop con 11. Mas adelante aprendí sobre reparación de hardware y software para poder profundizar mi entendimiento de la tecnología. A principios de 2021 comencé a estudiar desarrollo web full stack en Henry y terminé en Julio de ese mismo año. En este perfil, vas a ver los proyectos que realicé y como fui evolucionando con el pasar del tiempo. Lo que mas me apasiona de este mundo es que los desafíos nunca se acaban y siempre puedo proponerme aprender algo nuevo, o hacer las cosas cada vez mejor. Bienvenido a mi perfil!
+Hola! Soy Ignacio y vivo en CABA, Argentina. Desde que era muy chico siempre quise trabajar "con la computadora" sin saber bien que implicaba. A mis 19 años empece mi carrera como desarrollador ABAP en IBM y desde entonces mis ganas de seguir expandiendo mi conocimiento fueron creciendo. A finales de 2021 comencé a estudiar desarrollo web full stack en Henry y terminé en Junio de 2022. En este perfil, vas a ver los proyectos que realicé y como fui evolucionando con el pasar del tiempo. Lo que mas me apasiona de este mundo es que los desafíos nunca se acaban y siempre puedo proponerme aprender algo nuevo, o hacer las cosas cada vez mejor. Bienvenido a mi perfil!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioSM98&count_private=true&theme=onedark)
 
@@ -36,7 +36,7 @@ Hola! Soy Ignacio y vivo en CABA, Argentina. Desde que tengo memoria, me relacio
   <p>
     
  </p>
-<img align="center" src="https://res.cloudinary.com/jorgeleandroolaizola/image/upload/v1627050087/LogoHenry_rfiwpz.png" height="325" width="300" />
+<img align="center" src="https://food-app-plum.vercel.app/static/media/img.48be60a9.png" height="325" width="300" />
   </a>
 </p>
       <hr>
