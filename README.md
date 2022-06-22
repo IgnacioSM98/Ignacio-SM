@@ -1,6 +1,6 @@
 # Ignacio Sanchez Martinez
 
-Hola! Soy Jorge y vivo en CABA, Argentina. Desde que tengo memoria, me relaciono diariamente con la tecnología. A los 5 años ya me encontraba aprendiendo como manejar una computadora para jugar videojuegos. Con el tiempo, fui utilizando los conocimientos que adquirí para otros motivos, por ejemplo, aprendí edición básica de video con 9 años y a usar photoshop con 11. Mas adelante aprendí sobre reparación de hardware y software para poder profundizar mi entendimiento de la tecnología. A principios de 2021 comencé a estudiar desarrollo web full stack en Henry y terminé en Julio de ese mismo año. En este perfil, vas a ver los proyectos que realicé y como fui evolucionando con el pasar del tiempo. Lo que mas me apasiona de este mundo es que los desafíos nunca se acaban y siempre puedo proponerme aprender algo nuevo, o hacer las cosas cada vez mejor. Bienvenido a mi perfil!
+Hola! Soy Ignacio y vivo en CABA, Argentina. Desde que tengo memoria, me relaciono diariamente con la tecnología. A los 5 años ya me encontraba aprendiendo como manejar una computadora para jugar videojuegos. Con el tiempo, fui utilizando los conocimientos que adquirí para otros motivos, por ejemplo, aprendí edición básica de video con 9 años y a usar photoshop con 11. Mas adelante aprendí sobre reparación de hardware y software para poder profundizar mi entendimiento de la tecnología. A principios de 2021 comencé a estudiar desarrollo web full stack en Henry y terminé en Julio de ese mismo año. En este perfil, vas a ver los proyectos que realicé y como fui evolucionando con el pasar del tiempo. Lo que mas me apasiona de este mundo es que los desafíos nunca se acaban y siempre puedo proponerme aprender algo nuevo, o hacer las cosas cada vez mejor. Bienvenido a mi perfil!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioSM98&count_private=true&theme=onedark)
 
@@ -21,8 +21,8 @@ Hola! Soy Jorge y vivo en CABA, Argentina. Desde que tengo memoria, me relaciono
   
 <h3 align="left">Repositories:</h3>
 <p>
-  <a href="https://e-commics.vercel.app/">
-    <p>E-commics</p>
+  <a href="https://pf-gp1-deploy.vercel.app/">
+    <p>Infusion Store</p>
   <p>
     
     
@@ -30,8 +30,8 @@ Hola! Soy Jorge y vivo en CABA, Argentina. Desde que tengo memoria, me relaciono
 <img align="center" src="https://res.cloudinary.com/mecompany/image/upload/v1626749765/gunqq5jhi9wkk9jx0ny0.jpg" height="200" width="300" />
   </a>
     <br></br>
-  <a href="https://pi-videogames-ft-13.vercel.app">
-    <p>Henry Videogames</p>
+  <a href="https://food-app-plum.vercel.app/">
+    <p>Henry Foods</p>
     
   <p>
     
@@ -45,9 +45,9 @@ Hola! Soy Jorge y vivo en CABA, Argentina. Desde que tengo memoria, me relaciono
 
 <h3 align="left">Contact:</h3>
 
- <a href="https://www.linkedin.com/in/jorge-olaizola/">
+ <a href="https://www.linkedin.com/in/ignacio-sm/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/LinkedinBlack.png/640px-LinkedinBlack.png" alt="linkedin" height="100"/>
   
-  <a href="mailto: jorgelolaizola@hotmail.com">
+  <a href="mailto: ignaciosanchezmartinez10@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Breezeicons-actions-22-mail-forwarded.svg/640px-Breezeicons-actions-22-mail-forwarded.svg.png" alt="e-mail" height="100"/>       
   </a>
