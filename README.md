@@ -27,7 +27,7 @@ Hola! Soy Ignacio y vivo en CABA, Argentina. Desde que era muy chico siempre qui
     
     
  </p>
-<img align="center" src="https://img.freepik.com/foto-gratis/tazones-cucharas-infusiones_23-2148555468.jpg" height="200" width="100%" />
+<img align="center" src="https://res.cloudinary.com/db4adidql/image/upload/v1655910491/Github/banner_susaron_4_abril_rde5v4.jpg" height="200" width="100%" />
   </a>
     <br></br>
   <a href="https://food-app-plum.vercel.app/" target="_blank">
