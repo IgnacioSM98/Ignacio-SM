@@ -27,7 +27,7 @@ Hola! Soy Ignacio y vivo en CABA, Argentina. Desde que era muy chico siempre qui
     
     
  </p>
-<img align="center" src="https://res.cloudinary.com/db4adidql/image/upload/v1655911017/Github/inf_clw6o2.png" height="300" width="350" />
+<img align="center" src="https://res.cloudinary.com/db4adidql/image/upload/v1655911017/Github/inf_clw6o2.png" height="490" width="382" />
   </a>
     <br></br>
   <a href="https://food-app-plum.vercel.app/" target="_blank">
