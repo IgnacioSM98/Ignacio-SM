@@ -36,7 +36,7 @@ Hola! Soy Ignacio y vivo en CABA, Argentina. Desde que era muy chico siempre qui
   <p>
     
  </p>
-<img align="center" src="https://res.cloudinary.com/db4adidql/image/upload/v1655910130/Github/Chef-restaurant-logo-by-DEEMKA-STUDIO-4_cvjuu9.jpg" height="325" width="300" />
+<img align="center" src="https://res.cloudinary.com/db4adidql/image/upload/v1655910130/Github/Chef-restaurant-logo-by-DEEMKA-STUDIO-4_cvjuu9.jpg" height="225" width="300" />
   </a>
 </p>
       <hr>
