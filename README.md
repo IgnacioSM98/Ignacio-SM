@@ -30,7 +30,7 @@ Hola! Soy Ignacio y vivo en CABA, Argentina. Desde que era muy chico siempre qui
 <img align="center" src="https://res.cloudinary.com/mecompany/image/upload/v1626749765/gunqq5jhi9wkk9jx0ny0.jpg" height="200" width="300" />
   </a>
     <br></br>
-  <a href="https://food-app-plum.vercel.app/">
+  <a href="https://food-app-plum.vercel.app/" target='_blank'>
     <p>Henry Foods</p>
     
   <p>
