@@ -37,7 +37,7 @@ Hola! Soy Ignacio y vivo en CABA, Argentina. Desde que era muy chico siempre qui
   <code><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/></a></code>
   <code><a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="30"/></a></code>
   <code><a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express" height="30"/></a></code>
- <code><a href="https://nextjs.org/m" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcCGn8wTFCU939zgtj5OlUM9_Z8iru0n7AvxTnDpUB7MdnQ5hLNxX6r5w-cPKSWzNeJ7Q&usqp=CAU" alt="Nextjs" height="30"/></a></code>
+ <code><a href="https://reactnative.dev/" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" alt="ReactNative" height="30"/></a></code>
   </p>
       <hr>
       </hr>
