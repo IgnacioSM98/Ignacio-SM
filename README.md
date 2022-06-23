@@ -24,11 +24,11 @@ Hola! Soy Ignacio y vivo en CABA, Argentina. Desde que era muy chico siempre qui
 <img align="center" src="https://res.cloudinary.com/db4adidql/image/upload/v1655911092/Github/food_myir5g.png" height="581" width="415" />
   </a>
 </p>
-      <hr>
-      ## Technology Stack
+ ## Technology Stack
  ⌨️JavaScript, HTML, Express, CSS, SCSS, Bootstrap <br>
  ⌨️ReactJS, React Native, Redux, Postgres, NodeJS <br>
  ⌨️Git, GitHub, SCRUM, Figma, SAP <br>
+      <hr>
       </hr>
 
 
