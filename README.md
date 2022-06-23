@@ -3,11 +3,6 @@
 Hola! Soy Ignacio y vivo en CABA, Argentina. Desde que era muy chico siempre quise trabajar "con la computadora" sin saber bien que implicaba. A mis 19 años empece mi carrera como desarrollador ABAP en IBM y desde entonces mis ganas de seguir expandiendo mi conocimiento fueron creciendo. A finales de 2021 comencé a estudiar desarrollo web full stack en Henry y terminé en Junio de 2022. En este perfil, vas a ver los proyectos que realicé y como fui evolucionando con el pasar del tiempo. Lo que mas me apasiona de este mundo es que los desafíos nunca se acaban y siempre puedo proponerme aprender algo nuevo, o hacer las cosas cada vez mejor. Bienvenido a mi perfil!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioSM98&count_private=true&theme=onedark)
-
-## Technology Stack
- ⌨️JavaScript, HTML, Express, CSS, SCSS, Bootstrap <br>
- ⌨️ReactJS, React Native, Redux, Postgres, NodeJS <br>
- ⌨️Git, GitHub, SCRUM, Figma, SAP <br>
   
 ## Repositories:
 <p>
@@ -32,6 +27,11 @@ Hola! Soy Ignacio y vivo en CABA, Argentina. Desde que era muy chico siempre qui
       <hr>
       </hr>
 
+
+## Technology Stack
+ ⌨️JavaScript, HTML, Express, CSS, SCSS, Bootstrap <br>
+ ⌨️ReactJS, React Native, Redux, Postgres, NodeJS <br>
+ ⌨️Git, GitHub, SCRUM, Figma, SAP <br>
 
 <h3 align="left">Contact:</h3>
 
