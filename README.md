@@ -5,11 +5,11 @@ Hola! Soy Ignacio y vivo en CABA, Argentina. Desde que era muy chico siempre qui
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioSM98&count_private=true&theme=onedark)
 
 ## Technology Stack
- JavaScript, HTML, Express, CSS, SCSS, Bootstrap <br>
- ReactJS, React Native, Redux, Postgres, NodeJS <br>
- Git, GitHub, SCRUM, Figma, SAP <br>
+ ⌨️JavaScript, HTML, Express, CSS, SCSS, Bootstrap <br>
+ ⌨️ReactJS, React Native, Redux, Postgres, NodeJS <br>
+ ⌨️Git, GitHub, SCRUM, Figma, SAP <br>
   
-<h3 align="left">Repositories:</h3>
+## Repositories:
 <p>
   <a href="https://pf-gp1-deploy.vercel.app/" target="_blank">
     <p>Infusion Store</p>
