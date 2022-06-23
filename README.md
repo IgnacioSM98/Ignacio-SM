@@ -25,13 +25,12 @@ Hola! Soy Ignacio y vivo en CABA, Argentina. Desde que era muy chico siempre qui
   </a>
 </p>
       <hr>
-      </hr>
-
-
-## Technology Stack
+      ## Technology Stack
  ⌨️JavaScript, HTML, Express, CSS, SCSS, Bootstrap <br>
  ⌨️ReactJS, React Native, Redux, Postgres, NodeJS <br>
  ⌨️Git, GitHub, SCRUM, Figma, SAP <br>
+      </hr>
+
 
 <h3 align="left">Contact:</h3>
 
